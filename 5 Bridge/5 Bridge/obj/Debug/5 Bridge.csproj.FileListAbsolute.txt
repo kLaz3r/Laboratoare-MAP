@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\5 Bridge\5 Bridge\bin\Debug\5 Bridge.exe.config
+C:\Users\Stefan\source\repos\5 Bridge\5 Bridge\bin\Debug\5 Bridge.exe
+C:\Users\Stefan\source\repos\5 Bridge\5 Bridge\bin\Debug\5 Bridge.pdb
+C:\Users\Stefan\source\repos\5 Bridge\5 Bridge\obj\Debug\5 Bridge.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\5 Bridge\5 Bridge\obj\Debug\5 Bridge.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\5 Bridge\5 Bridge\obj\Debug\5 Bridge.exe
+C:\Users\Stefan\source\repos\5 Bridge\5 Bridge\obj\Debug\5 Bridge.pdb

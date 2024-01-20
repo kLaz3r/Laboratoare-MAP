@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\4 Decorator\4 Decorator\bin\Debug\4 Decorator.exe.config
+C:\Users\Stefan\source\repos\4 Decorator\4 Decorator\bin\Debug\4 Decorator.exe
+C:\Users\Stefan\source\repos\4 Decorator\4 Decorator\bin\Debug\4 Decorator.pdb
+C:\Users\Stefan\source\repos\4 Decorator\4 Decorator\obj\Debug\4 Decorator.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\4 Decorator\4 Decorator\obj\Debug\4 Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\4 Decorator\4 Decorator\obj\Debug\4 Decorator.exe
+C:\Users\Stefan\source\repos\4 Decorator\4 Decorator\obj\Debug\4 Decorator.pdb

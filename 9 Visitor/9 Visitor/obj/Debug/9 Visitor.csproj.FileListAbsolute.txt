@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\9 Visitor\9 Visitor\bin\Debug\9 Visitor.exe.config
+C:\Users\Stefan\source\repos\9 Visitor\9 Visitor\bin\Debug\9 Visitor.exe
+C:\Users\Stefan\source\repos\9 Visitor\9 Visitor\bin\Debug\9 Visitor.pdb
+C:\Users\Stefan\source\repos\9 Visitor\9 Visitor\obj\Debug\9 Visitor.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\9 Visitor\9 Visitor\obj\Debug\9 Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\9 Visitor\9 Visitor\obj\Debug\9 Visitor.exe
+C:\Users\Stefan\source\repos\9 Visitor\9 Visitor\obj\Debug\9 Visitor.pdb

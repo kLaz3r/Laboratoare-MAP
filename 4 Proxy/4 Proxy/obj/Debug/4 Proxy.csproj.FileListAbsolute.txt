@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\4 Proxy\4 Proxy\bin\Debug\4 Proxy.exe.config
+C:\Users\Stefan\source\repos\4 Proxy\4 Proxy\bin\Debug\4 Proxy.exe
+C:\Users\Stefan\source\repos\4 Proxy\4 Proxy\bin\Debug\4 Proxy.pdb
+C:\Users\Stefan\source\repos\4 Proxy\4 Proxy\obj\Debug\4 Proxy.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\4 Proxy\4 Proxy\obj\Debug\4 Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\4 Proxy\4 Proxy\obj\Debug\4 Proxy.exe
+C:\Users\Stefan\source\repos\4 Proxy\4 Proxy\obj\Debug\4 Proxy.pdb

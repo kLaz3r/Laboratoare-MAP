@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\8 Command\8 Command\bin\Debug\8 Command.exe.config
+C:\Users\Stefan\source\repos\8 Command\8 Command\bin\Debug\8 Command.exe
+C:\Users\Stefan\source\repos\8 Command\8 Command\bin\Debug\8 Command.pdb
+C:\Users\Stefan\source\repos\8 Command\8 Command\obj\Debug\8 Command.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\8 Command\8 Command\obj\Debug\8 Command.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\8 Command\8 Command\obj\Debug\8 Command.exe
+C:\Users\Stefan\source\repos\8 Command\8 Command\obj\Debug\8 Command.pdb

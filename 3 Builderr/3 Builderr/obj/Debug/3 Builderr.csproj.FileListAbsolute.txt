@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\3 Builderr\3 Builderr\bin\Debug\3 Builderr.exe.config
+C:\Users\Stefan\source\repos\3 Builderr\3 Builderr\bin\Debug\3 Builderr.exe
+C:\Users\Stefan\source\repos\3 Builderr\3 Builderr\bin\Debug\3 Builderr.pdb
+C:\Users\Stefan\source\repos\3 Builderr\3 Builderr\obj\Debug\3 Builderr.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\3 Builderr\3 Builderr\obj\Debug\3 Builderr.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\3 Builderr\3 Builderr\obj\Debug\3 Builderr.exe
+C:\Users\Stefan\source\repos\3 Builderr\3 Builderr\obj\Debug\3 Builderr.pdb

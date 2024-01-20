@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\6 Flyweight\6 Flyweight\bin\Debug\6 Flyweight.exe.config
+C:\Users\Stefan\source\repos\6 Flyweight\6 Flyweight\bin\Debug\6 Flyweight.exe
+C:\Users\Stefan\source\repos\6 Flyweight\6 Flyweight\bin\Debug\6 Flyweight.pdb
+C:\Users\Stefan\source\repos\6 Flyweight\6 Flyweight\obj\Debug\6 Flyweight.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\6 Flyweight\6 Flyweight\obj\Debug\6 Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\6 Flyweight\6 Flyweight\obj\Debug\6 Flyweight.exe
+C:\Users\Stefan\source\repos\6 Flyweight\6 Flyweight\obj\Debug\6 Flyweight.pdb

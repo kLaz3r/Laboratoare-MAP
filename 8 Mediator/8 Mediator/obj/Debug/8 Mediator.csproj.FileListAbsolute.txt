@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\8 Mediator\8 Mediator\bin\Debug\8 Mediator.exe.config
+C:\Users\Stefan\source\repos\8 Mediator\8 Mediator\bin\Debug\8 Mediator.exe
+C:\Users\Stefan\source\repos\8 Mediator\8 Mediator\bin\Debug\8 Mediator.pdb
+C:\Users\Stefan\source\repos\8 Mediator\8 Mediator\obj\Debug\8 Mediator.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\8 Mediator\8 Mediator\obj\Debug\8 Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\8 Mediator\8 Mediator\obj\Debug\8 Mediator.exe
+C:\Users\Stefan\source\repos\8 Mediator\8 Mediator\obj\Debug\8 Mediator.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\5 Composite\5 Composite\bin\Debug\5 Composite.exe.config
+C:\Users\Stefan\source\repos\5 Composite\5 Composite\bin\Debug\5 Composite.exe
+C:\Users\Stefan\source\repos\5 Composite\5 Composite\bin\Debug\5 Composite.pdb
+C:\Users\Stefan\source\repos\5 Composite\5 Composite\obj\Debug\5 Composite.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\5 Composite\5 Composite\obj\Debug\5 Composite.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\5 Composite\5 Composite\obj\Debug\5 Composite.exe
+C:\Users\Stefan\source\repos\5 Composite\5 Composite\obj\Debug\5 Composite.pdb

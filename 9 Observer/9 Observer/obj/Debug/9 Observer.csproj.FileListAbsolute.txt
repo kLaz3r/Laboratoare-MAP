@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\9 Observer\9 Observer\bin\Debug\9 Observer.exe.config
+C:\Users\Stefan\source\repos\9 Observer\9 Observer\bin\Debug\9 Observer.exe
+C:\Users\Stefan\source\repos\9 Observer\9 Observer\bin\Debug\9 Observer.pdb
+C:\Users\Stefan\source\repos\9 Observer\9 Observer\obj\Debug\9 Observer.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\9 Observer\9 Observer\obj\Debug\9 Observer.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\9 Observer\9 Observer\obj\Debug\9 Observer.exe
+C:\Users\Stefan\source\repos\9 Observer\9 Observer\obj\Debug\9 Observer.pdb

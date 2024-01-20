@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\6 Adapter\6 Adapter\bin\Debug\6 Adapter.exe.config
+C:\Users\Stefan\source\repos\6 Adapter\6 Adapter\bin\Debug\6 Adapter.exe
+C:\Users\Stefan\source\repos\6 Adapter\6 Adapter\bin\Debug\6 Adapter.pdb
+C:\Users\Stefan\source\repos\6 Adapter\6 Adapter\obj\Debug\6 Adapter.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\6 Adapter\6 Adapter\obj\Debug\6 Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\6 Adapter\6 Adapter\obj\Debug\6 Adapter.exe
+C:\Users\Stefan\source\repos\6 Adapter\6 Adapter\obj\Debug\6 Adapter.pdb
