@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\1 Singleton\1 Singleton\bin\Debug\1 Singleton.exe.config
+C:\Users\Stefan\source\repos\1 Singleton\1 Singleton\bin\Debug\1 Singleton.exe
+C:\Users\Stefan\source\repos\1 Singleton\1 Singleton\bin\Debug\1 Singleton.pdb
+C:\Users\Stefan\source\repos\1 Singleton\1 Singleton\obj\Debug\1 Singleton.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\1 Singleton\1 Singleton\obj\Debug\1 Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\1 Singleton\1 Singleton\obj\Debug\1 Singleton.exe
+C:\Users\Stefan\source\repos\1 Singleton\1 Singleton\obj\Debug\1 Singleton.pdb

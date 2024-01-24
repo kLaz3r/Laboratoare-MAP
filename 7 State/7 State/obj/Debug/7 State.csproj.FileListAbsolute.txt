@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\7 State\7 State\bin\Debug\7 State.exe.config
+C:\Users\Stefan\source\repos\7 State\7 State\bin\Debug\7 State.exe
+C:\Users\Stefan\source\repos\7 State\7 State\bin\Debug\7 State.pdb
+C:\Users\Stefan\source\repos\7 State\7 State\obj\Debug\7 State.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\7 State\7 State\obj\Debug\7 State.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\7 State\7 State\obj\Debug\7 State.exe
+C:\Users\Stefan\source\repos\7 State\7 State\obj\Debug\7 State.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\2 Factory\2 Factory\bin\Debug\2 Factory.exe.config
+C:\Users\Stefan\source\repos\2 Factory\2 Factory\bin\Debug\2 Factory.exe
+C:\Users\Stefan\source\repos\2 Factory\2 Factory\bin\Debug\2 Factory.pdb
+C:\Users\Stefan\source\repos\2 Factory\2 Factory\obj\Debug\2 Factory.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\2 Factory\2 Factory\obj\Debug\2 Factory.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\2 Factory\2 Factory\obj\Debug\2 Factory.exe
+C:\Users\Stefan\source\repos\2 Factory\2 Factory\obj\Debug\2 Factory.pdb

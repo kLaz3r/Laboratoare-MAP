@@ -15,13 +15,11 @@ namespace _3_Builderr
 
         public ICar Clone()
         {
-            // Utilizăm metoda MemberwiseClone pentru a obține o clonă superficială
             Car clone = (Car)this.MemberwiseClone();
 
-            // Schimbăm culoarea pentru clonă
             if (IsClone)
             {
-                clone.Color = "Red"; // Schimbăm culoarea pentru clona mașinii de lux
+                clone.Color = "Red"; 
             }
 
             return clone;
